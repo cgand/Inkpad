@@ -1,40 +1,45 @@
 Inkpad
 ======
 
-Inkpad is a vector illustration app designed from scratch for the iPad. It supports paths, compound paths, text, images, groups, masks, gradient fills, and an unlimited number of layers.
+Inkpad è un'applicazione di disegno vettoriale progettata ex novo per l'iPad. Il programma consente tracciati, tracciati composti, testo, testo sui tracciati, immagini, gruppi, maschere, sfumature ed un numero illimitato di livelli.
 
-Inkpad was designed with performance in mind – it can easily handle drawings with hundreds to thousands of shapes without bogging down. Export your finished illustrations directly to your Dropbox as SVG or PDF.
+Inkpad è stato programmato per avere ottime prestazioni - si possono avere disegni con centinaia se non migliaia di forme senza perdere velocità. Il disegno può poi essere esportato immediatamente in Dropbox sia come SVG o PDF.
 
-Features:
+Funzionalità:
 
-* Very high performance. Select, scale and rotate hundreds of objects with zero lag.
-* Create arbitrary bezier paths with the Pen tool.
-* Create compound paths, masks and groups.
-* Create text objects.
-* Place photos from your albums.
-* Boolean operators on paths (Unite, Intersect, Exclude, Subtract Front)
-* Powerful scale and rotate tools.
-* Gradient fills with interactive editing on canvas.
-* Arbitrary stroke dash patterns.
-* Swatch library.
-* Unlimited layers per drawing.
-* Rename, rearrange, delete, hide and lock layers.
-* Adjust layer transparency.
-* Snap to grid, points, and path edges.
-* Isolate the active layer for easy editing.
-* Email drawings as SVG, PDF, PNG and JPEG.
-* Send SVG, PDF, PNG, and JPEG directly to your Dropbox.
+* Prestazioni molto elevate. Seleziona, dimensiona e ruota centinaia di oggetti immediatamente.
+* Crea tracce di bezier a mano libera con lo strumento Penna.
+* Crea tracciati composti, maschere e gruppi.
+* Crea riquadri di testo.
+* Importa foto di tuoi album.
+* Effettua operazione booleane sui tracciati (Unione, Intersezione, Esclusione, Sottrazione)
+* Strumeni potenti di dimensionamento e rotazione.
+* Creazione di sfumature con anteprima durante la modifica. 
+* Line tratteggiate personalizzate a piacere.
+* Libreria dei campioni di colore
+* Numero illimitato di livelli per ogni disegno.
+* Rinomina, riordina, elimina, nasconde e blocca i livelli.
+* Trasparenza modificabile per ogni livello.
+* Allineamento alla griglia, ai punti ed ai bordi dei tracciati.
+* Livello attivo isolato per rendere più facile le modifiche.
+* Invio per email del disegno come SVG, PDF, PNG, e JPEG.
+* Invio direttamente in Dropbox come SVG, PDF, PNG, e JPEG.
 
-Inkpad requires iOS 7. It is available on the [App Store](https://itunes.apple.com/app/id400083414).
+Inkpad richiede iOS 7. È disponibile sull'[App Store](https://itunes.apple.com/app/id400083414).
+
+Novità nella versione 1.5.1
+---------------------------
+
+Dalla versione 1.5, Inkpad e software free/libre open-source!    
+Scarica il codice sorgente e contribuisci: https://github.com/sprang/Inkpad
 
 License
 -------
 
-Inkpad is Free/Libre Open Source Software. It is distributed under the [Mozilla Public License v2.0](http://mozilla.org/MPL/2.0/).
+Inkpad è software Free/Libre Open Source. È distribuito sotto la [Mozilla Public License v2.0](http://mozilla.org/MPL/2.0/).
 
-Please do not submit unmodified (or trivially modified) versions of this application to the App Store. The license grants both rights and responsibilities. If you choose to clone and submit this application to the App Store, you are required to make this source code (and any changes that you've made to it) publicly available. You must also make it clear that the source code is available and provide a link to it.
+Sebbene non strattamente pribito dalla licenza, si prega di non inviare all'App Store una versione identica (o leggermente modificata) di questa applicazione. 
 
-I will ask Apple to pull any apps that do not comply. Please don't waste your time and mine.
 
 How to Contribute
 -----------------
